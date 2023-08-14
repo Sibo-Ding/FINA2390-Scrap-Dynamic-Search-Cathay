@@ -1,4 +1,4 @@
-Get to Cathay Pacific official website https://www.cathaypacific.com/cx/en_HK.html\
+Get to Cathay Pacific official website https://www.cathaypacific.com/cx/en_HK.html \
 Enter the following search criteria in the code:\
 a.	Origin\
 b.	Destination\
