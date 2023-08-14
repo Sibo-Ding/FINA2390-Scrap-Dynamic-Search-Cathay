@@ -10,4 +10,6 @@ g.	Number of infants\
 h.	Departing date\
 i.	Returning date\
 
+Note: The website has been updated. However, the method can be migrated to other web search with calendar (hotel, flight etc.).
+
 HKU FINA2390, Nov 2022
