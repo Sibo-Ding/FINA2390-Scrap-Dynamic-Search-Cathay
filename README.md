@@ -8,7 +8,7 @@ e.	Number of adults\
 f.	Number of children\
 g.	Number of infants\
 h.	Departing date\
-i.	Returning date\
+i.	Returning date
 
 Note: The website has been updated. However, the method can be migrated to other web search with calendar (hotel, flight etc.).
 
